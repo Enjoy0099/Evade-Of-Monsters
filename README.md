@@ -3,9 +3,16 @@
 ![Game Image](https://github.com/Enjoy0099/Evade-Of-Monsters/blob/9a062767bcf088703f39851caf0d6cb0ac22e44c/Raw%20Image/Menu.png)
 
 
-This is a Unity 2d infinite game. 
+It is a 2D infinite survival game.
 
-In this game, the player dodges the monster. And if the monster touches the player, the player is killed.
+While playing this game your job is to evade the monsters.
+And by any chance, if you touch the monster then you died.
+
+While playing the game the speed of monsters and spirits increases continuously. Because of this, you can't get the highest score easily.
+
+But I'm a very kind person. So I added one feature to the game. that is the rate of the scoreboard increases. means your score speed increase depending on your survival time in-game. which helps the player reach the highest score.
+
+So, let's see how much you get the score...
 
 # Game Screenshot
 
