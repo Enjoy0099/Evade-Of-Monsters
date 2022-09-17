@@ -22,9 +22,6 @@ So, let's see how much you get the score...
 
 https://user-images.githubusercontent.com/97245841/166157145-738dac38-04d0-4a5a-b8f5-0e2750860f8f.mp4
 
-# Game
-in the index, you see two rar files (Windows.part1.rar and Windows.part2.rar). you download them and enjoy the game on a PC or laptop.
-
 
 # Player Movement Button
 
