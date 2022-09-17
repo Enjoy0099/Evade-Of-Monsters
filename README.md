@@ -3,7 +3,11 @@
 ![Game Image](https://github.com/Enjoy0099/Evade-Of-Monsters/blob/9a062767bcf088703f39851caf0d6cb0ac22e44c/Raw%20Image/Menu.png)
 
 
-This is a Unity 2d infinite game. In this game, the player dodges the monster. And if the monster touches the player, the player is killed.
+This is a Unity 2d infinite game. 
+
+In this game, the player dodges the monster. And if the monster touches the player, the player is killed. 
+
+And also, you game play this game with multiple characters.
 
 # Game Screenshot
 
@@ -15,3 +19,18 @@ https://user-images.githubusercontent.com/97245841/166157145-738dac38-04d0-4a5a-
 
 # Game
 in the index, you see two rar files (Windows.part1.rar and Windows.part2.rar). you download them and enjoy the game on a PC or laptop.
+
+
+# Player Movement Button
+
+> "W A S D" or Arrow keys
+
+> Using "space bar" you can jump.
+
+# Play Game
+
+> https://play.unity.com/mg/other/web-gl-q4
+
+# Download
+
+> 
