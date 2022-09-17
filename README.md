@@ -27,7 +27,7 @@ in the index, you see two rar files (Windows.part1.rar and Windows.part2.rar). y
 
 # Play Game
 
-> https://play.unity.com/mg/other/web-gl-q4
+> https://play.unity.com/mg/other/webgl-builds-247674
 
 # Download
 
