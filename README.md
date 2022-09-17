@@ -5,9 +5,7 @@
 
 This is a Unity 2d infinite game. 
 
-In this game, the player dodges the monster. And if the monster touches the player, the player is killed. 
-
-And also, you game play this game with multiple characters.
+In this game, the player dodges the monster. And if the monster touches the player, the player is killed.
 
 # Game Screenshot
 
@@ -33,4 +31,4 @@ in the index, you see two rar files (Windows.part1.rar and Windows.part2.rar). y
 
 # Download
 
-> https://drive.google.com/file/d/1IlLHbJHRKHst3sElDURHDzmUFR_oGh7i/view?usp=sharing
+> https://drive.google.com/file/d/17VR2Y2AiA91RgJH0wCGf79tBBXV485JB/view?usp=sharing
