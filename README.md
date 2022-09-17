@@ -33,4 +33,4 @@ in the index, you see two rar files (Windows.part1.rar and Windows.part2.rar). y
 
 # Download
 
-> 
+> https://drive.google.com/file/d/1IlLHbJHRKHst3sElDURHDzmUFR_oGh7i/view?usp=sharing
